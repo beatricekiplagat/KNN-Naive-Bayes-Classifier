@@ -9,7 +9,8 @@
 ### Description
 
 The Titanic was a luxury ship, which at its time, was the largest ship afloat, and was the second of three Olympic-class ocean liners operated by the White Star Line. On its maiden voyage on 15th April 1912, it hit an iceberg, leading to the deaths of over 1500 passengers and crew, of the 2240 on board.
-It had people from diverse backgrounds on board, from high-ranking officials, wealthy industrialists, dignitaries, celebrities and mostly common folk , who had paid less than USD20 to make the crossing
+It had people from diverse backgrounds on board, from high-ranking officials, wealthy industrialists, dignitaries, celebrities and mostly common folk , who had paid less than USD20 to make the crossing.
+
 We have been provided with 2 datasets to build a model prediction from which to check the possibility of survival.
 
 The steps taken during this study are:
