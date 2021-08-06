@@ -1,6 +1,6 @@
 # KNN & Naive Bayes Classifier 
 
-** 8/6/2021**
+** 8/6/2021 **
 
 ## Titanic Dataset Analysis and Spam Message Classification
 
