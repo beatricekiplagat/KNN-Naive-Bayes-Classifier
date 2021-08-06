@@ -1,6 +1,6 @@
 # KNN & Naive Bayes Classifier 
 
-** 8/6/2021 **
+#### 8/6/2021 
 
 ## Titanic Dataset Analysis and Spam Message Classification
 
@@ -9,14 +9,10 @@
 ### Description
 
 The Titanic was a luxury ship, which at its time, was the largest ship afloat, and was the second of three Olympic-class ocean liners operated by the White Star Line. On its maiden voyage on 15th April 1912, it hit an iceberg, leading to the deaths of over 1500 passengers and crew, of the 2240 on board.
-
 It had people from diverse backgrounds on board, from high-ranking officials, wealthy industrialists, dignitaries, celebrities and mostly common folk , who had paid less than USD20 to make the crossing
-
 We have been provided with 2 datasets to build a model prediction from which to check the possibility of survival.
 
 The steps taken during this study are:
-
-The following steps will be undertaken during this study:
 
 - Data Understanding
 - Data Preparation
@@ -35,7 +31,7 @@ I challenged my model using the Random Forest Algorithm and scored an accuracy o
 I am tasked to correctly classify a spam message using Naive Bayes Classifier.
 I would like to achieve a high accuacy score with the optimal Naive Bayes Classifier model.
 
-The following steps will be undertaken during this study:
+The steps taken during this study are:
 
 - Data Understanding
 - Data Preparation
